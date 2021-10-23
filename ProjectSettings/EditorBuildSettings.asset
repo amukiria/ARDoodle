@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RW/Scenes/ARScene.unity
+    guid: df93101ce029d476e8a85c14acfec21a
+  - enabled: 1
+    path: Assets/RW/Scenes/DoodleTest.unity
+    guid: acfd1d7d92aee4eb5b17e2a830d3f164
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 8997b120fe050204ea82503959898665, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 25083249c69484018bd1f0e1c939183e, type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 06c9822dd12a040ffb15a8aeca84ea82, type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 678d0b5c56c4f4d57b8438194b04697e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6c72346d5a54aca4c91a45321c1a4236, type: 2}
